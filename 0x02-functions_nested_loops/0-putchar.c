@@ -1,15 +1,12 @@
 #include <stdio.h>
 
 /**
-* main - prints Putchar
+* main - Entry point
 *
-*Description: prints _putchar
-*
-* Return:0 (success)
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-
 char *sh = "_putchar";
 while (*sh)
 {
@@ -17,7 +14,5 @@ putchar(*sh);
 sh++;
 }
 putchar('\n');
-
 return (0);
-
 }
