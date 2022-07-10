@@ -12,7 +12,6 @@ int i;
 int z;
 int d;
 int p;
-int _putchar();
 
 if (size > 0)
 {
