@@ -9,7 +9,6 @@
 void print_line(int n)
 {
 int i;
-int _putchar();
 
 if (n > 0)
 {
