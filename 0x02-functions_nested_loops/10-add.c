@@ -3,8 +3,8 @@
 
 /**
  *add -prints add two numbers
- *@i: print int i
- *@k: print int k
+ *@i: first parameter
+ *@k: second parameter
  *
  * Return: Always 0.
  */
