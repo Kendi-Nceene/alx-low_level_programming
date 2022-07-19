@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <stddef.h> 
+#include <stddef.h>
 
 /**
  * infinite_add - adds two numbers
