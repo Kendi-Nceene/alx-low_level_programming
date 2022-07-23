@@ -1,11 +1,11 @@
 # 0x0A. C - argc, argv
 
-0. It ain't what they call you, it's what you answer to
+## 0. It ain't what they call you, it's what you answer to
 
 0-whatsmyname.c: C program that prints its name, followed by a new line.
 If the program is renamed, the program will print the new name without having to be compiled again.
 The path should not be removed before the name of the program.
-1. Silence is argument carried out by other means
+## 1. Silence is argument carried out by other means
 
 1-args.c: C program that prints the number of arguments passed to it, followed by a new line.
 2. The best argument against democracy is a five-minute conversation with the average voter
