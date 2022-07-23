@@ -4,7 +4,9 @@ In this project, I learned what static libraries are and practiced creating and 
 
 # Task 0. A library is not a luxury but one of the necessities of life
 
-libmy.a: C Static library containing all the functions listed below:
+Create the static library libmy.a containing all the functions listed below:
+
+# libmy.a: C Static library
 
 int _putchar(char c);
 
