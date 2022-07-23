@@ -2,11 +2,11 @@
 
 In this project, I learned what static libraries are and practiced creating and using them with ar, ranlib, and nm.
 
-# Task 0. A library is not a luxury but one of the necessities of life
+## Task 0. A library is not a luxury but one of the necessities of life
 
 Create the static library libmy.a containing all the functions listed below:
 
-# libmy.a: C Static library
+## libmy.a: C Static library
 
 int _putchar(char c);
 
