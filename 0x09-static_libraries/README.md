@@ -6,7 +6,7 @@ In this project, I learned what static libraries are and practiced creating and 
 
 Create the static library libmy.a containing all the functions listed below:
 
-## libmy.a: C Static library
+## libmy.a: C Static libraries
 
 int _putchar(char c);
 
