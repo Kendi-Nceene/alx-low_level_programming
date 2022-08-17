@@ -5,7 +5,6 @@
  * @h: singly linked list.
  * Return: number of elements in the list.
  */
-
 size_t print_list(const list_t *h)
 {
 size_t nelem;
@@ -21,7 +20,6 @@ h = h->next;
 nelem++;
 }
 return (nelem);
-=======
 	size_t nelem;
 
 	nelem = 0;
@@ -35,5 +33,4 @@ return (nelem);
 		nelem++;
 	}
 	return (nelem);
->>>>>>> 0a047b17e1b90148492b307fb08ed0e087312c52
 }
