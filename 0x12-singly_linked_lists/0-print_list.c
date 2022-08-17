@@ -20,9 +20,7 @@ h = h->next;
 nelem++;
 }
 return (nelem);
-	size_t nelem;
-
-	nelem = 0;
+	
 	while (h != NULL)
 	{
 		if (h->str == NULL)
